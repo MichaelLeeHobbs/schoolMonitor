@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cron": "^1.7.2",
+    "dotenv": "^8.2.0",
+    "http-parser-js": "^0.5.1",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "trello": "^0.9.1"
+  },
+  "scripts": {
+    "start": "node --http-parser=legacy src"
+  }
+}
