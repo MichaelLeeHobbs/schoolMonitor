@@ -5,7 +5,7 @@
     "dotenv": "^8.2.0",
     "http-parser-js": "^0.5.1",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "trello": "^0.9.1"
   },
   "scripts": {
